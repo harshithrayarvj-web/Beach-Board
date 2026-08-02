@@ -3,7 +3,7 @@
 ## **1. Creating the matrix for the keys - 8/1/2026** (4 Hours & 45 Minutes spent)
 Today I finalized my keyboard's design and started working on the pcb's schematic!
 My keyboard design uses an ortholinear layout, requiring every key to be in line (atleast if they are the same U size as another key above or below it), this made creating the matrix easier to track and create.
-The parts that caused the most friction during this stage was figuring out if the hotswap sockets also included a footprint for the switch, while also figuring out the footprints for the oled and rotary encoder.
+The parts that caused the most friction during this stage was figuring out if the hotswap sockets also included a footprint for the switch, while also figuring out the footprints for the oled, rotary encoder, and mounting holes.
 Learning about the rotary encoder having a switch function also made me rethink the function of a special select key into something that functions as a mode swapper 
 (but I still need to finalize on what I want that key to do exactly)
 <img width="1914" height="1024" alt="Screenshot 2026-08-01 164835" src="https://github.com/user-attachments/assets/5e423fda-b554-481d-acbe-9770509f9a75" />
