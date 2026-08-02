@@ -1,6 +1,6 @@
-# **Creating the schematic for the BeachBoard**
+# **1. Creating the schematic for the BeachBoard**
 
-## **1. Creating the matrix for the keys - 8/1/2026** (4 Hours & 45 Minutes spent)
+## **Creating the matrix for the keys - 8/1/2026** (4 Hours & 45 Minutes spent)
 Today I finalized my keyboard's design and started working on the pcb's schematic!
 My keyboard design uses an ortholinear layout, requiring every key to be in line (atleast if they are the same U size as another key above or below it), this made creating the matrix easier to track and create.
 The parts that caused the most friction during this stage was figuring out if the hotswap sockets also included a footprint for the switch, while also figuring out the footprints for the oled, rotary encoder, and mounting holes.
